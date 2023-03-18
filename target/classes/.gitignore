@@ -1,4 +1,19 @@
-/META-INF/
+/ActionClass.class
+/Assignment.class
+/AuthonticationPopup.class
+/CDom.class
+/Chckbox.class
+/DataDrovider.class
+/DropDowns.class
+/Ecom.class
+/Excel.class
+/Frames.class
+/Grid.class
+/Links.class
+/LocatorsPractice.class
+/LocatorsPractice2.class
+/Practice.class
+/PracticeiFrame.class
 /SSLCert.class
 /Scrollling.class
 /SiblingLocator.class
@@ -7,3 +22,4 @@
 /dataDr.class
 /getData.class
 /hello.class
+/META-INF/

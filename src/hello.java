@@ -19,7 +19,7 @@ public class hello {
 		dropDown.selectByIndex(1);
 		System.out.println(dropDown.getFirstSelectedOption().getText());
 		dropDown.selectByValue("USD");
-		System.out.println(dropDown.getFirstSelectedOption().getText());
+		dropDown.getFirstSelectedOption().getText();
 		
 		dropDown.selectByVisibleText("AED");
 		System.out.println(dropDown.getFirstSelectedOption().getText());
